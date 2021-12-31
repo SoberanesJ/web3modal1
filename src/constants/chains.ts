@@ -208,7 +208,7 @@ export const CHAIN_DATA_LIST: ChainDataList = {
   338: {
 	chainId: 338,
 	chain: "TCRO",
-	network: "tcronos",
+	network: "cronostestnet_338-3",
 	networkId: 338
   },
   385: {
